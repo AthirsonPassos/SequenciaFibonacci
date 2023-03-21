@@ -28,8 +28,9 @@ namespace SequenciaFibonacci
 			}
 			Console.WriteLine("{0}", r);
 			Console.ReadKey();
+			//By Athirson Passos
 		}
 
 
-    }
+	}
 }
